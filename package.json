@@ -1,0 +1,14 @@
+{
+  "name": "github-clone-example",
+  "version": "1.0.0",
+  "description": "Пример проекта для тренировки git clone и установки зависимостей",
+  "scripts": {
+    "start": "ts-node ./src/main.ts"
+  },
+  "author": "Mauzzz0",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "typescript": "^5.4.5"
+  }
+}
